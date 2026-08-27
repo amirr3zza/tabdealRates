@@ -5,7 +5,7 @@
 [![Source](https://img.shields.io/badge/API-Tabdeal-orange.svg)](https://tabdeal.org/)
 
 A clean, modern, dark-themed Rainmeter desktop widget that displays real-time **USD Dollar**, **Euro**, and **18K Gold (طلای ۱۸ عیار)** prices in Tomans along with 24-hour percentage changes, fetched directly from Tabdeal's public API.
-
+![Preview](preview.png)
 ---
 
 ## ✨ Features
