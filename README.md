@@ -36,7 +36,7 @@ A clean, modern, dark-themed Rainmeter desktop widget that displays real-time **
 ### Clone via Git
 ```powershell
 cd "$HOME\Documents\Rainmeter\Skins"
-git clone https://github.com/<your-username>/tabdealRates.git
+git clone https://github.com/amirr3zza/tabdealRates.git
 ```
 Then refresh Rainmeter and load `tabdealRates.ini`.
 
